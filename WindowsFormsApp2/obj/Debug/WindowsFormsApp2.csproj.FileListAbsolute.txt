@@ -1,0 +1,14 @@
+E:\Programming\Forms\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\Programming\Forms\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\Programming\Forms\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\Programming\Forms\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+E:\Programming\Forms\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\Programming\Forms\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\Programming\Forms\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+E:\Programming\Forms\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\Programming\Forms\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\Programming\Forms\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.О_программе.resources
+E:\Programming\Forms\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Еда.resources
+E:\Programming\Forms\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ГЛАВНАЯ.resources
+E:\Programming\Forms\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Описание.resources
+E:\Programming\Forms\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Примеры.resources
